@@ -1,8 +1,8 @@
 {
-  "name": "lorem-ipsum",
+  "name": "fb-ipsum",
   "version": "1.0.2",
-  "description": "Generates passages of lorem ipsum text suitable for use as placeholder copy in web pages, graphics, and more.",
-  "author": "Nickolas Kenyeres <nkenyeres@gmail.com> (http://knicklabs.github.com)",
+  "description": "Generates passages of Facebook slogans as lorem ipsum text suitable for use as placeholder copy in web pages, graphics, and more.",
+  "author": "Andrew Liebchen <andrewliebchen.gmail.com> (http://andrewliebchen.com)",
   "license": "MIT/X11",
   "main": "./lib/generator",
   "dependencies": {
@@ -13,18 +13,19 @@
   },
   "optionalDependencies": {},
   "bin": {
-    "lorem-ipsum": "bin/lorem-ipsum.bin.js"
+    "fb-ipsum": "bin/fb-ipsum.bin.js"
   },
   "scripts": {
     "test": "nodeunit test"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/knicklabs/node-lorem-ipsum.git"
+    "url": "git://github.com/andrewliebchen/fb-ipsum.git"
   },
   "keywords": [
     "lorem",
     "ipsum",
+    "Facebook",
     "placeholder",
     "text",
     "dummy",
