@@ -2,6 +2,8 @@
 
 fb-ipsum.js is a Node.js and Component.js module for generating passages of Facebook slogans as lorem ipsum text. Lorem ipsum text is commonly used as placeholder text in publishing, graphic design, and web development.
 
+This is a shameles fork of [`lorem-ipsum.js`](https://github.com/knicklabs/node-lorem-ipsum). Thanks for doing the hard work for us!
+
 ### Using the Module (Node.js)
 
 Install the fb-ipsum.js module to use the library in your server-side Node.js projects.
